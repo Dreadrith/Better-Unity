@@ -1,6 +1,9 @@
 ﻿using UnityEditor;
 using System.IO;
 
+//Adds new context menu item: Assets > Create > Text File
+//Creates a new text file in the destination folder
+
 namespace BetterUnity
 {
     public class CreateTxt

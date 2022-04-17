@@ -5,6 +5,9 @@ using System.Reflection;
 using UnityEngine;
 using UnityEditor;
 
+//Replicates Unity's Transform Inspector but adds new Context Menu to each field.
+//Allows you to Copy, Paste and Reset any transform field individually.
+
 namespace BetterUnity
 {
     [CanEditMultipleObjects]
@@ -14,7 +17,6 @@ namespace BetterUnity
         private static System.Type RotationGUIType;
         private static MethodInfo RotationGUIEnableMethod;
         private static MethodInfo DrawRotationGUIMethod;
-        private static GenericMenu lastMenu;
         private object rotationGUI;
 
         private SerializedProperty m_LocalPosition;

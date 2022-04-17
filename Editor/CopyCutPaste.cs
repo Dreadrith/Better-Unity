@@ -2,6 +2,8 @@
 using UnityEditor;
 using System.IO;
 
+//Adds 3 new Assets context menu items: Copy, Cut & Paste
+
 namespace BetterUnity
 {
     public class CopyCutPaste
