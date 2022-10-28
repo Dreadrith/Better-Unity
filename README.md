@@ -18,3 +18,9 @@ Collection of editor scripts that aim to overall facilitate and improve usage of
   Replicates Unity's Transform Inspector but adds a Context Menu to each field.<br>
   Allows you to Copy, Paste and Reset any transform field individually.
 </details>
+
+<details>
+  <summary><b>GOCopy Path</b></summary>
+  Adds a new GameObject context menu item: GameObject > Copy Path.<br>
+  Allows you to Copy the path From the root to the target GameObject.
+</details>
