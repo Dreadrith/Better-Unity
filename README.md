@@ -20,6 +20,12 @@ Collection of editor scripts that aim to overall facilitate and improve usage of
 </details>
 
 <details>
+  <summary><b>GOCopy Path</b></summary>
+  Adds a new GameObject context menu item: GameObject > Copy Path.<br>
+  Allows you to Copy the path From the root to the target GameObject.
+</details>
+
+<details>
   <summary><b>CopyGUID</b></summary>
   Adds a new Assets context menu item: Copy GUID.<br>
   Copies the GUID of the selected Asset to the clipboard.
