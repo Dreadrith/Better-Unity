@@ -2,6 +2,11 @@
 Built on Unity 2019.4.31f1.<br>
 Collection of editor scripts that aim to overall facilitate and improve usage of Unity Editor.
 
+
+Download: 
+<a href=https://github.com/Dreadrith/Better-Unity/releases/download/v1.0.0/Better-Unity_v1.0.0.unitypackage>Unity Package</a> - 
+ <a href=https://github.com/Dreadrith/Better-Unity/releases/download/v1.0.0/Better-Unity_v1.0.0.zip>Zip (VPM Compatible)</a>
+
 <details>
   <summary><b>CopyCutPaste</b></summary>
   Adds 3 new Assets context menu items: Copy, Cut & Paste
