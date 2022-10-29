@@ -1,0 +1,23 @@
+{
+  "name": "com.dreadscripts.tool.betterunity",
+  "displayName": "DreadTools - Better Unity",
+  "version": "1.0.0",
+  "unity": "2019.4",
+  "description": "Editor scripts to improve the Unity Editor.",
+  "keywords": [
+	"Dreadrith",
+	"DreadScripts",
+	"DreadTools",
+	"Editor",
+	"Utility",
+	"Enhancement"
+  ],
+  "author": {
+    "name": "Dreadrith",
+    "email": "dreadscripts@gmail.com",
+    "url": "https://github.com/Dreadrith"
+  },
+  "legacyFolders": {
+    "Assets\\DreadScripts\\Better Unity": "a09203517043c5344b527754b22a4eac"
+  }
+}

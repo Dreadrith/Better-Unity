@@ -18,3 +18,9 @@ Collection of editor scripts that aim to overall facilitate and improve usage of
   Replicates Unity's Transform Inspector but adds a Context Menu to each field.<br>
   Allows you to Copy, Paste and Reset any transform field individually.
 </details>
+
+<details>
+  <summary><b>CopyGUID</b></summary>
+  Adds a new Assets context menu item: Copy GUID.<br>
+  Copies the GUID of the selected Asset to the clipboard.
+</details>
